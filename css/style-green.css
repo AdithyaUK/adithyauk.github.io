@@ -408,7 +408,7 @@ a:hover {
 }
 
 .navbar-b.navbar-reduce {
-  box-shadow: 0px 6px 9px 0px rgba(0, 0, 0, 0.06);
+  box-shadow: 0px 6px 9px 0px green;
 }
 
 .navbar-b.navbar-trans .nav-item,
